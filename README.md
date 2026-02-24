@@ -28,7 +28,7 @@ https://drive.wrt.moe/uboot/mediatek
 
 固件信息里的时间为编译开始的时间，方便核对上游源码提交时间。
 
-QUALCOMMAX系列（IPQ807X-WIFI）
+QUALCOMMAX系列（IPQ807X-WIFI,IPQ60XX-WIFI）
 
 # 目录简要说明
 
