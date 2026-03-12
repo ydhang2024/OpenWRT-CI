@@ -74,7 +74,7 @@ UPDATE_PACKAGE "qmodem" "FUjr/QModem" "main"
 UPDATE_PACKAGE "quickfile" "sbwml/luci-app-quickfile" "main"
 UPDATE_PACKAGE "viking" "VIKINGYFY/packages" "main" "" "luci-app-timewol luci-app-wolplus"
 UPDATE_PACKAGE "vnt" "lmq8267/luci-app-vnt" "main"
-UPDATE_PACKAGE "rtp2httpd" "xuanranran/xuanranran/openwrt-rtp2httpd" "master"
+UPDATE_PACKAGE "rtp2httpd" "xuanranran/openwrt-rtp2httpd" "master"
 
 #更新软件包版本
 UPDATE_VERSION() {
